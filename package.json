@@ -1,0 +1,23 @@
+{
+  "name": "fip",
+  "version": "0.0.1",
+  "main": "lib/index.js",
+  "maintainers": [
+    "teambition",
+    "leeqiang"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leeqiang/node-fip.git"
+  },
+  "keywords": [
+    "node",
+    "sdk",
+    "ip"
+  ],
+  "author": "Lee Qiang",
+  "license": "MIT",
+  "dependencies": {
+    "iconv-lite": "^0.2.11"
+  }
+}
